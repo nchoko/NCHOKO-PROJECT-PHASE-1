@@ -22,7 +22,7 @@ In our daily lives, we encounter news and events that often lack joy. Comedy ser
 
 You can reach out to me through:
 
-- [Github]()
+- [Github](https://github.com/)
 - [Email]()
 
 ## LICENSE
